@@ -24,6 +24,8 @@ relationship accuracy in text-image alignment. Furthermore, PSG significantly en
 the ability of text-to-image models to generate images with specified spatial configurations,
 outperforming state-of-the-art methods across multiple evaluation metrics and benchmarks.
 
+
+![image](./Asset/Figure1.png)
 ## Usage
 This score gives an improved and continuous evaluation of accuracy of a spatial relationship. You can use 'pse_metric.py' to calculate the accuracy of a relation between two masks.
 ### Requirements :

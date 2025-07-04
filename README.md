@@ -1,6 +1,8 @@
 # Why Settle for Mid: A Probabilistic Viewpoint to Spatial Relationship Alignment in Text-to-image Models
 This repository contains the codebase for the paper [Why Settle for Mid ](https://arxiv.org/abs/2506.23418).
 
+![image](./Asset/Figure1.png)
+
 ## Abstract
 Despite the ability of text-to-image models to generate high-quality, realistic, and diverse
 images, they face challenges in compositional generation, often struggling to accurately
@@ -25,7 +27,6 @@ the ability of text-to-image models to generate images with specified spatial co
 outperforming state-of-the-art methods across multiple evaluation metrics and benchmarks.
 
 
-![image](./Asset/Figure1.png)
 ## Usage
 This score gives an improved and continuous evaluation of accuracy of a spatial relationship. You can use 'pse_metric.py' to calculate the accuracy of a relation between two masks.
 ### Requirements :
